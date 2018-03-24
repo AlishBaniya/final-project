@@ -4,7 +4,7 @@
 //
 // Microsoft Cognitive Services (formerly Project Oxford): https://www.microsoft.com/cognitive-services
 //
-// Microsoft Cognitive Services (formerly Project Oxford) GitHub:
+// Microsoft Cognitive Services (formerly Project Oxford) G:
 // https://github.com/Microsoft/Cognitive-Speech-STT-Windows
 //
 // Copyright (c) Microsoft Corporation
